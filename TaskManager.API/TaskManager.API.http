@@ -1,0 +1,9 @@
+@TaskManager.API_HostAddress = http://localhost:5193
+
+
+
+
+# GET {{TaskManager.API_HostAddress}}/TaskManagerRepository/
+Accept: application/json
+
+###
